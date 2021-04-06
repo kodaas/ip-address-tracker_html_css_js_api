@@ -1,7 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+}
+
 .attribution {
-  font-size: 11px;
+  font-size: 12px;
   text-align: center;
+  margin-top: 30px;
+  padding: 15px 5px;
+  color: hsl(228, 45%, 44%);
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+  text-decoration: none;
 }
