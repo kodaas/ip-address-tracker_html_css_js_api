@@ -19,43 +19,35 @@
       <header>
         <h1>IP Address Tracker</h1>
         <div id="input">
-          <input type="text" name="ip" id="ip">
+          <input type="text" name="ip-input" id="ip-input" placeholder="Search for any IP address or domain">
           <span><img src="images/icon-arrow.svg" alt=">"></span>
         </div>
         <div id="dash-board">
-          <ul>
-            <li>
-              <div class="card">
-                <span>IP Address</span>
-                <h2>192.212.174.101</h2>
-              </div>
-            </li>
-            <li>
-              <div class="card">
-                <span>Location</span>
-                <h2>Brooklyn, NY 10001</h2>
-              </div>
-            </li>
-            <li>
-              <div class="card">
-                <span>Timezone</span>
-                <h2>UTC-05:00</h2>
-              </div>
-            </li>
-            <li>
-              <div class="card">
-                <span>ISP</span>
-                <h2>SpaceX Starlink</h2>
-              </div>
-            </li>
-          </ul>
+
+          <div class="card">
+            <span>IP Address</span>
+            <h2 id="id">192.212.174.101</h2>
+          </div>
+
+          <div class="card">
+            <span>Location</span>
+            <h2 id="location">Brooklyn, NY 10001</h2>
+          </div>
+
+          <div class="card">
+            <span>Timezone</span>
+            <h2 id="timezone">UTC-05:00</h2>
+          </div>
+
+          <div class="card">
+            <span>ISP</span>
+            <h2 id="isp">SpaceX Starlink</h2>
+          </div>
+
         </div>
       </header>
-      <aside>This id where the map will be</aside>
+      <aside><div id="info">The MAP Will Be Here</div></aside>
     </section>
-
-
-    <!-- Search for any IP address or domain -->
   
     <footer style="line-height: 10px;">
       <p class="attribution">
@@ -63,7 +55,7 @@
         Coded by <a href="https://github.com/kodaas">Ajala Fiyinfoluwa John</a>.
         <br>
         <br>
-        <a href="https://github.com/kodaas/coming-soon_html_css#overview">GitHub Code</a>
+        <a href="#">GitHub Code</a>
       </p>
     </footer>
 
