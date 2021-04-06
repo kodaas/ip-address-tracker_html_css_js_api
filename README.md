@@ -1,4 +1,4 @@
-# Frontend Mentor - IP address tracker solution
+# Frontend Mentor - [IP address tracker solution](https://kodaas.github.io/ip-address-tracker_html_css_js_api/)
 
 This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -43,8 +43,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub code](https://github.com/kodaas/ip-address-tracker_html_css_js_api)
+- Live Site URL: [live site](https://kodaas.github.io/ip-address-tracker_html_css_js_api/)
 
 ## My process
 
