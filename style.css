@@ -102,7 +102,7 @@ header #dash-board {
   z-index: 3;
 }
 
-/* 630px */
+/* 800px */
 @media (min-width: 1300px) {
   header #dash-board {
     margin-top: 50px;
@@ -131,6 +131,21 @@ header #dash-board .card h2 {
   font-size: 20px;
   margin: 7px 0px 15px;
   font-weight: 600;
+}
+
+@media (min-width: 1300px) {
+  header #dash-board .card {
+    text-align: left;
+    padding-left: 25px;
+  }
+
+  .card:not(.card:first-child) {
+    border-left: 1px solid var(--light-gray);
+  }
+
+  header #dash-board .card span {
+    font-size: 13px;
+  }
 }
 
 aside {
