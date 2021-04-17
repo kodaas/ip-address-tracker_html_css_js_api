@@ -54,6 +54,11 @@ header #input {
   justify-content: space-between;
   position: relative;
   font-size: 18px;
+  /* border: 2px solid transparent; */
+}
+
+.focus {
+  border: 2px solid var(--dark-gray);
 }
 
 header #input input {
@@ -83,9 +88,14 @@ header #input span {
   padding: 15px 0px 0px;
   border-radius: 0px 15px 15px 0px;
   background-color: var(--dark-gray);
-  /* transition: transform 0.2s cubic-bezier(0.47, 0, 0.745, 0.715); */
+  transition: all 0.2s cubic-bezier(0.47, 0, 0.745, 0.715);
   cursor: pointer;
   user-select: none;
+}
+
+header #input span:hover {
+  opacity: 0.6;
+  padding-left: 10px;
 }
 
 header #dash-board {
