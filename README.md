@@ -64,7 +64,7 @@ Users should be able to:
 
 
 ## Acknowledgments
-[ipgeolocation](https://www.ipgeolocation.io)
-[leafletjs](https://leafletjs.com/)
-[Google fonts](https://fonts.google.com/)
-[Github pages](https://github.com)
+- ``` [ipgeolocation](https://www.ipgeolocation.io) ```
+- ``` [leafletjs](https://leafletjs.com/) ```
+- ``` [Google fonts](https://fonts.google.com/) ```
+- ``` [Github pages](https://github.com) ```
