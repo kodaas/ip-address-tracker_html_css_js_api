@@ -60,7 +60,7 @@ Users should be able to:
 
 - Website - [Ajala Fiyinfoluwa John](https://github.com/kodaas)
 - Frontend Mentor - [@Ajala-John](https://www.frontendmentor.io/profile/Ajala-John)
-- Twitter - [@kodaas1](https://twitter.com/kodaas1)
+- Twitter - [@_kodaas](https://twitter.com/_kodaas)
 
 
 ## Acknowledgments
